@@ -51,7 +51,7 @@ function App() {
             label="Zuri Books"
             id="books"
             link="https://books.zuri.team/"
-            title=""
+            title="Books about design and programming"
           />
           <LinkButton
             label="Python Books"
@@ -62,11 +62,13 @@ function App() {
             label="Background Check for Coders"
             id="pitch"
             link="https://background.zuri.team/"
+            title="Backgrounds that will help you while designing and coding."
           />
           <LinkButton
             label="Design Books"
             id="book__design"
             link="https://books.zuri.team/design-rules"
+            title="Books offered by Zuri Team"
           />
         </section>
         <section className="mt-6 py-6 flex items-center justify-center gap-6 ">
